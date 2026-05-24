@@ -1,0 +1,5 @@
+regime,days,pct,avg_duration,ig_oas_mean,hy_oas_mean,vix_mean,t10y2y_mean,nfci_mean,ig_oas_vol,hy_oas_vol
+Risk-On,393,29.7,122.5,84.8,301.8,17.7,0.776,-0.565,15.12,83.11
+Normalization,422,31.8,102.3,98.2,330.1,15.7,-0.233,-0.402,17.79,90.31
+Event-Driven Stress,209,15.8,39.8,114.2,367.8,26.0,0.403,-0.415,39.47,208.97
+Macro Tightening,301,22.7,101.1,144.0,463.5,21.2,-0.503,-0.204,35.84,183.1
