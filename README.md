@@ -37,6 +37,7 @@ This project constructs a market-implied credit risk framework using publicly av
 
 
 ## Repository Structure
+```text
 notebooks/
 |-- 01_data_processing.ipynb
 |-- 02_spread_decomposition.ipynb
@@ -51,7 +52,7 @@ data/
 
 docs/
 |-- data_selection.md
-
+```
 
 ## Data Sources
 
