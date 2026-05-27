@@ -29,11 +29,15 @@ The selected window aims to capture multiple recent market regimes, including:
 7. St. Louis Fed Financial Stress Index (weekly, below zero = below-average stress)
 
 **Interest Rate Indicators**
-1. Yield on 1-year US Treasury constant maturity securities
-2. Yield on 2-year US Treasury constant maturity securities
-3. Yield on 5-year US Treasury constant maturity securities
-4. Yield on 10-year US Treasury constant maturity securities
-5. Spread between 10-year and 2-year Treasury yields
+1. One-month T-bill yield
+2. Yield on 3-month US Treasury bill
+3. Six-month T-bill yield
+4. Yield on 1-year US Treasury constant maturity securities
+5. Yield on 2-year US Treasury constant maturity securities
+6. Yield on 3-year US Treasury constant maturity securities
+7. Yield on 5-year US Treasury constant maturity securities
+8. Yield on 10-year US Treasury constant maturity securities
+9. Spread between 10-year and 2-year Treasury yields
 
 **Market Risk Indicators**
 1. CBOE Volatility Index — the canonical "fear gauge" measuring S&P 500 expected 30-day volatility
